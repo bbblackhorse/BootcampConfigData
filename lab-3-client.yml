@@ -1,5 +1,2 @@
-.yml file
 ---
-spring:
-  config:
-    lucky-word: LuckyTestValue
+lucky-word: LuckyTestValue
